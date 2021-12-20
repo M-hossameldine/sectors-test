@@ -1,0 +1,4 @@
+.intro__title span {
+  /* @apply font-bold ; */
+  display: block;
+}
